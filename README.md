@@ -8,4 +8,4 @@ Benching write performance of a regular array against stack allocated memory
 |        ArrWrite | 231.4 ns | 0.13 ns | 0.12 ns |      48 B |
 
 # Conclusion
-Not a huge difference so long both are hot in cache
+Not a huge difference so long both are hot in cache!
